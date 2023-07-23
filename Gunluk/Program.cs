@@ -30,8 +30,9 @@ namespace Gunluk
         static void GunluguAc()
         {    
                 Console.WriteLine("");
-                
-                Console.WriteLine("Günlüğe yazmak için 1'e ,günlüğü okumak için 2'ye  , kapatmak için 3 e basınız ");
+            Console.WriteLine("uhurdfıhtgıurdyy");
+
+            Console.WriteLine("Günlüğe yazmak için 1'e ,günlüğü okumak için 2'ye  , kapatmak için 3 e basınız ");
                 int inputokuVeyaYaz=int.Parse(Console.ReadLine());
                 if (inputokuVeyaYaz == 1)
                 {
